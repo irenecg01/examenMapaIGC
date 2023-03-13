@@ -1,0 +1,26 @@
+.elementos {
+    border-bottom: 1px solid gray;
+    margin: 2%;
+}
+
+.telefono {
+    display: flex;
+}
+
+.tarjetas {
+    margin-right: 2%;
+    color: white;
+    background-color: #0071DA;
+    padding: 0 2%;
+    border-radius: 5px;
+}
+
+#mapa {
+    height: 100vh;
+}
+
+.listado {
+    height: 100vh;
+    overflow-y: scroll;
+}
+
